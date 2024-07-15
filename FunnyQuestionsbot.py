@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot("6482301090:AAEs9zvehBcY0dsH6ukmRUubf1sg0n6oG8w")
+bot = telebot.TeleBot("")
 
 questions = ['Have you ever had a sex😏?', 'How old are you🧐?', 'Do you like russia?💩', 'Do you like Ukraine?', 'What is your favourite country?',
                  'What is your name?', 'What is your less favourite country?', 'How to poop?', 'Do you like go to the toilet for dancing?😂😂😂',
