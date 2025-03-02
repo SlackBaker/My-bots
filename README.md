@@ -1,2 +1,3 @@
 # My-bots
-My bots which are in python or in c#
+My bots which are in python
+There you can just upload them
